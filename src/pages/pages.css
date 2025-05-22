@@ -4,6 +4,13 @@ hr.rounded{
     border-radius: 5px;
 }
 
+/* dotted border */
+
+hr.thin{
+    border-top: 5px solid #bbb;
+    border-radius: 2px;
+}
+
 /* Headers */
 h2{
     font-family: 'Courier New', Courier, monospace;
@@ -34,3 +41,20 @@ p.times{
 p.italic{
     font-style: italic;
 }
+
+/* link decor */
+/* a:link {
+  background-color: yellow;
+}
+
+a:visited {
+  background-color: cyan;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
+}  */
